@@ -22,3 +22,18 @@ Month-on-Month Dynamics: Quantified the month-on-month growth or decline in sale
 Weekday vs. Weekend Sales: Analysis revealed variations in sales patterns between weekdays and weekends, enabling targeted promotions and staffing adjustments.    
 Store Location Performance: Comparison of sales performance across different store locations identified top-performing stores and areas requiring attention.    
 Product Category Insights: Analysis of sales by product category highlighted key revenue drivers and opportunities for product mix optim
+Hourly Sales Trends: Examination of hourly sales data within a specific month to identify peak times.    
+
+Technical Skills Demonstrated:
+
+SQL Data Manipulation (CRUD Operations)
+Data Cleaning and Transformation
+Aggregate Functions (SUM, COUNT, AVG)
+Window Functions (LAG)
+Date and Time Functions
+Conditional Logic (CASE statements)
+Grouping and Ordering Data
+
+Conclusion:
+
+This project showcases the critical role of SQL in extracting meaningful insights from retail data. By analyzing sales trends, customer behavior, and product performance, businesses can make informed decisions to drive growth, improve efficiency, and enhance the customer experience. I am excited to apply these skills to future projects and contribute to data-driven success.
